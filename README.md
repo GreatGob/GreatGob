@@ -61,18 +61,21 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   -->
   
-  <img src="https://img.icons8.com/color/48/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/django.png"/>
+
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+  <img src="https://img.icons8.com/color/48/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/django.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   
   <img src="https://img.icons8.com/fluency/48/docker.png"/>
   <img src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
-  
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+
 
   
   
