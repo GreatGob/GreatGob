@@ -45,7 +45,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   
   <img src="https://img.icons8.com/fluency/48/docker.png"/>
-  <!-- <img src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>--.
+  <img src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
 
