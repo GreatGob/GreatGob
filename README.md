@@ -32,43 +32,33 @@
 </p>
 
 ## Skills
-
-<p align="center">
+<h4>Databases</h4>
+<div align="center">
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</div>
 
+<h4>Programming Languages</h4>
+<div align="center">
   <img src="https://img.icons8.com/color/48/python--v1.png"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/django.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  
+</div>
+
+<h4>Frameworks</h4>
+<div align="center">
+  <img src="https://img.icons8.com/color/48/django.png"/>
+  <img src="https://i.ibb.co/xJmN96s/fastapi.png" alt="fastapi" style="height: 48px; width: 108px;"/>
+  <img src="https://i.ibb.co/WyGM2Lb/spark-apache.png" alt="spark-apache" style="height: 48px; width: 48px;"/>
+</div>
+
+<h4>Tools</h4>
+<div align="center">
   <img src="https://img.icons8.com/fluency/48/docker.png"/>
   <img src="https://img.icons8.com/fluency/48/power-bi-2021.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-</p>
+</div>
 
-<!--
-## Activities:
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <<td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!--
-# Certificates:
-
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
--->
