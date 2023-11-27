@@ -1,7 +1,9 @@
 <h1 align="center">Trung Anh Le</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/vn.svg" width="20" height="15"></h3>
-  <h3 align="center">I'm a Software Engineer</h3>
+  <h3 align="center">I'm a Software Engineer from Viet Nam</h3>
+  <div align="center">
+    <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/vn.svg" style="height: 24px; width: 32px;"/>
+  </div>
 </p>
 
 <br />
@@ -49,8 +51,8 @@
 
 <h4>Frameworks</h4>
 <div align="center">
-  <img src="https://img.icons8.com/color/48/django.png"/>
-  <img src="https://i.ibb.co/xJmN96s/fastapi.png" alt="fastapi" style="height: 48px; width: 108px;"/>
+  <img src="https://img.icons8.com/color/48/django.png" style="height: 48px; width: 48px;"/>
+  <img src="https://i.ibb.co/XC3y1Wv/logo-teal.png" alt="logo-teal" border="0" style="height: 48px; width: 128px;">
   <img src="https://i.ibb.co/WyGM2Lb/spark-apache.png" alt="spark-apache" style="height: 48px; width: 48px;"/>
 </div>
 
