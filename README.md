@@ -1,10 +1,9 @@
 <h1 align="center">Trung Anh Le</h1>
-<p align="center">
-  <h3 align="center">I'm a Software Engineer from Viet Nam</h3>
-  <div align="center">
-    <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/vn.svg" style="height: 24px; width: 32px;"/>
-  </div>
-</p>
+<h3 align="center">I'm a Software Engineer from Viet Nam</h3>
+<div align="center">
+  <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/vn.svg" style="height: 24px; width: 32px;"/>
+</div>
+
 
 <br />
 
